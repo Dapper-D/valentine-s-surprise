@@ -61,7 +61,7 @@ const ValentineCard = () => {
         {!accepted ? (
           <>
             <h2 className="valentine-title text-2xl md:text-3xl lg:text-4xl mb-8">
-            Patricia de Leon
+            Patricia Pena Ponce de Leon
             </h2>
             <h3 className="valentine-title text-xl md:text-3xl lg:text-3xl mb-8">
               Will you be my Valentine?
