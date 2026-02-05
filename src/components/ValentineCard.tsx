@@ -60,9 +60,12 @@ const ValentineCard = () => {
 
         {!accepted ? (
           <>
-            <h1 className="valentine-title text-3xl md:text-4xl lg:text-5xl mb-8">
+            <h2 className="valentine-title text-2xl md:text-3xl lg:text-4xl mb-8">
+            Patricia de Leon
+            </h2>
+            <h3 className="valentine-title text-xl md:text-3xl lg:text-3xl mb-8">
               Will you be my Valentine?
-            </h1>
+            </h3>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center relative min-h-[120px]">
               <button 
